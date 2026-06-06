@@ -1,4 +1,4 @@
-console.log("Hii")
+//console.log("Hii")
 // window.alert("Are you sure") --> to keep alert message to the user.
 // window.confirm("Are You Sure"); --> For Confirm the user ok or not.
 // window.prompt("Enter Your Name:") --> To Take Text From User.

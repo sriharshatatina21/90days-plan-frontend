@@ -11,6 +11,7 @@
 
 
 
+
 //Datatype --> number,string,boolean,null,undefined,arrays,object
 // let number = 23;
 // console.log(number);//--> for declaring number,floating values

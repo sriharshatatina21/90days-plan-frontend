@@ -1,0 +1,1 @@
+// console.log("%c anyName",'color:red;background:green')--> any customization can do here,first is we can give anyText,second we can add styles 

@@ -224,4 +224,4 @@
 // console.log(entries);
 //navigator.onLine --> it says the user online or not.
 //navigator.userAgent --> it says the which we are in chorme
-//navigator.getBattery() --> it says how is battery.
+//navigator.getBattery() --> it says how is batter

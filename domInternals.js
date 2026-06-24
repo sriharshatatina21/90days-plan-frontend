@@ -29,3 +29,8 @@
 //promises --> it is used as same as setTimeout  but it says i will confirly execute,most property than setTimeout 
 
 // Promise.resolve(()=>{}) to run this is syntax.
+
+let name = ()=>{
+    console.log("DSA");
+}
+name();
